@@ -166,6 +166,8 @@ New features:
   https://github.com/alastair/python-musicbrainzngs/pull/247 and
   https://github.com/alastair/python-musicbrainzngs/pull/266 .
   Thanks to :user:`aereaux`.
+* :doc:`/plugins/export`: big speedups when `--include-keys` option is used
+  Thanks to :user:`ssssam`.
 
 Fixes:
 
